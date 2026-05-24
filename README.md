@@ -44,14 +44,15 @@
 
 ---
 
+
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&location=Jordan" alt="Omar's GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=omaralkayyali&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&location=Jordan" alt="Omar's GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&theme=tokyonight" alt="Omar's GitHub Streak" width="49%" />
 </p>
 
