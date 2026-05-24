@@ -74,6 +74,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralkayyali.b@gmail.com)
 
 ---
+### 🚀 Currently Learning & Exploring
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=omaralkayyali&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
