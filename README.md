@@ -10,6 +10,7 @@
 * 💻 Passionate about building full-stack web applications and crafting modern frontends.
 * ⚙️ Specialized in **Google Workspace Automation** using Apps Script to optimize workflows.
 * 🛠️ Focused on writing clean, scalable backend APIs and integrating cloud services.
+* 🎨 Equipped with a strong creative eye, utilizing professional design tools to build comprehensive and visually stunning digital products.
 
 ---
 
@@ -32,28 +33,14 @@
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🎨 Design & Creative Tools
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Omar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omaralkayyali&theme=onedark&column=7&no-bg=true&no-frame=true" alt="Omar's Trophies" />
-</p>
-
----
-
-## 📬 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralkayyali.b@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omaralkayyali)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=omaralkayyali&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+  <img src="
