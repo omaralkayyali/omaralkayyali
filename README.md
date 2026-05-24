@@ -97,5 +97,9 @@
 ---
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quotes" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghvc/?username=omaralkayyali&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
