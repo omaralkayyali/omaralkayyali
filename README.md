@@ -1,6 +1,6 @@
 # Hey, I'm Omar Al-Kayyali! 👋
 
-### 🚀 Full-Stack Developer & Automation Specialist
+### 🚀 Full-Stack Developer, Automation Specialist & Robotics Enthusiast
 
 ---
 
@@ -9,6 +9,7 @@
 * 🎓 **Computer Science** student at Al-Zaytoonah University of Jordan.
 * 💻 Passionate about building full-stack web applications and crafting modern frontends.
 * ⚙️ Specialized in **Google Workspace Automation** using Apps Script to optimize workflows.
+* 🤖 Experienced in **Robotics and Embedded Systems**, working with microcontrollers and educational robotics platforms.
 * 🛠️ Focused on writing clean, scalable backend APIs and integrating cloud services.
 * 🎨 Equipped with a strong creative eye, utilizing professional design tools to build comprehensive and visually stunning digital products.
 
@@ -33,6 +34,10 @@
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🤖 Robotics & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LEGO Spike Prime](https://img.shields.io/badge/LEGO_Spike_Prime-FFD400?style=for-the-badge&logo=lego&logoColor=black)
+
 ### 🎨 Design & Creative Tools
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
@@ -43,4 +48,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Omar's GitHub Stats" width="48%" />
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omaralkayyali&theme=onedark&column=7&no-bg=true&no-frame=true"
