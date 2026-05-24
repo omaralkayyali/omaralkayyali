@@ -54,8 +54,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗣️ Languages
-![Arabic](https://img.shields.io/badge/Arabic-Native_or_Bilingual-1572B6?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional_Working-4479A1?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Native_Language-1572B6?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-4479A1?style=for-the-badge)
 
 ---
 
