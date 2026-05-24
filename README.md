@@ -10,7 +10,7 @@
 * 💻 Passionate about building full-stack web applications and crafting modern frontends.
 * ⚙️ Specialized in **Google Workspace Automation** using Apps Script to optimize workflows.
 * 🤖 Experienced in **Robotics and Embedded Systems**, working with microcontrollers and educational robotics platforms.
-* 🛠️ Focused on writing clean, scalable backend APIs and integrating cloud services.
+* 🛠️ Focused on writing clean, scalable backend APIs, integrating cloud services, and leveraging AI tools to accelerate development.
 * 🎨 Equipped with a strong creative eye, utilizing professional design tools to build comprehensive and visually stunning digital products.
 
 ---
@@ -38,12 +38,25 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![LEGO Spike Prime](https://img.shields.io/badge/LEGO_Spike_Prime-FFD400?style=for-the-badge&logo=lego&logoColor=black)
 
+### 🤖 AI-Assisted Development & Productivity
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-E11D48?style=for-the-badge&logo=heart&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+
 ### 🎨 Design & Creative Tools
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
 
 ---
 
+## 🚀 Currently Learning & Exploring
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
 
 ## 📊 GitHub Dashboard
 
@@ -74,10 +87,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralkayyali.b@gmail.com)
 
 ---
-### 🚀 Currently Learning & Exploring
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=omaralkayyali&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
