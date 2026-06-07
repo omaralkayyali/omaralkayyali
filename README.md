@@ -1,5 +1,9 @@
 # Hey, I'm Omar Al-Kayyali! 👋
 
+<p align="center">
+  <img src="path/to/your/animated_hero.svg" alt="Animated Arabic Calligraphy Background" width="100%" />
+</p>
+
 ### 🚀 Full-Stack Developer, Automation Specialist & Robotics Enthusiast
 
 ---
