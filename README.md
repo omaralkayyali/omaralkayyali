@@ -280,7 +280,7 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaralkayyali&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
