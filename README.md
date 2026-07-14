@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="omar-kayyali-calligraphy-hero.png" alt="Hero Banner" width="100%" style="border-radius: 15px;" />
+<img src="omar-kayyali-calligraphy-hero.png" alt="Hero Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(122, 16, 34, 0.7), 0 0 20px rgba(30, 58, 138, 0.7);" />
+
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: 'Fira Code', monospace; font-size: 60px; font-weight: bold; text-shadow: 0 0 15px white, 0 0 30px #7A1022, 0 0 45px #1E3A8A;">OMAR</div>
 
 <br />
 
@@ -21,6 +23,7 @@
 
 </div>
 
+```http://googleusercontent.com/image_generation_content/350
 ---
 
 ## 🔮 About Me
