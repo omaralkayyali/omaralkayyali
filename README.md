@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Omar%20Al-Kayyali&fontSize=45&animation=twinkling&theme=dark&fontColor=9d4edd" alt="Hero Banner" />
+<!-- قم باستبدال "مسار_الصورة_هنا" برابط الصورة بعد رفعها إلى المستودع -->
+<img src="مسار_الصورة_هنا" alt="Hero Banner" width="100%" style="border-radius: 15px;" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A910F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Computer+Science+Student;AI+%26+Automation+Enthusiast;Digital+Entrepreneur" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A1022&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Computer+Science+Student;AI+%26+Automation+Enthusiast;Digital+Entrepreneur" alt="Typing Animation" />
 
 ### 🚀 Building scalable web platforms and intelligent automation systems
 
-[![Computer Science](https://img.shields.io/badge/CS_Student-Al--Zaytoonah_University-7B2CBF?style=for-the-badge&logo=education&logoColor=white)](https://github.com/omaralkayyali)
-[![AI Enthusiast](https://img.shields.io/badge/AI_Enthusiast-Agentic_Workflows-9D4EDD?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/omaralkayyali)
-[![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-React_%7C_Node_%7C_Firebase-C77DFF?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/omaralkayyali)
-[![Jordan](https://img.shields.io/badge/Location-Amman%2C_Jordan-E0AAFF?style=for-the-badge&logo=googlemaps&logoColor=black)](https://github.com/omaralkayyali)
+[![Computer Science](https://img.shields.io/badge/CS_Student-Al--Zaytoonah_University-1E3A8A?style=for-the-badge&logo=education&logoColor=white)](https://github.com/omaralkayyali)
+[![AI Enthusiast](https://img.shields.io/badge/AI_Enthusiast-Agentic_Workflows-7A1022?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/omaralkayyali)
+[![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-React_%7C_Node_%7C_Firebase-1E3A8A?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/omaralkayyali)
+[![Jordan](https://img.shields.io/badge/Location-Amman%2C_Jordan-7A1022?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/omaralkayyali)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alkayyali.web-7B2CBF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/omaralkayyali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Al--Kayyali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-al-kayyali-0a57a5338)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omaralkayyali.b@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/omaralkayyali?style=flat-square&logo=github&color=5A189A)](https://github.com/omaralkayyali)
-![Profile Views](https://komarev.com/ghvc/?username=omaralkayyali&color=9d4edd&style=flat-square&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alkayyali.web-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://github.com/omaralkayyali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Al--Kayyali-7A1022?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-al-kayyali-0a57a5338)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-1E3A8A?style=flat-square&logo=gmail&logoColor=white)](mailto:omaralkayyali.b@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/omaralkayyali?style=flat-square&logo=github&color=7A1022)](https://github.com/omaralkayyali)
+![Profile Views](https://komarev.com/ghvc/?username=omaralkayyali&color=1E3A8A&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -52,7 +53,7 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ### ⚙️ Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres" alt="Backend and DB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ### 📦 WordPress & CMS
@@ -63,23 +64,23 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ### ☁️ Cloud, DevOps & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,git,github" alt="Cloud and Git" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Apps Script" />
+  <img src="https://img.shields.io/badge/n8n-7A1022?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-1E3A8A?style=for-the-badge&logo=google&logoColor=white" alt="Apps Script" />
 </p>
 
 ### 🤖 AI-Assisted Development & Productivity
 <p>
   <img src="https://skillicons.dev/icons?i=gemini" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/NotebookLM-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
-  <img src="https://img.shields.io/badge/Lovable-E11D48?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Claude-7A1022?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/NotebookLM-7A1022?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
+  <img src="https://img.shields.io/badge/Lovable-1E3A8A?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
 </p>
 
 ### 🤖 Robotics & Hardware
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-  <img src="https://img.shields.io/badge/LEGO_Spike_Prime-FFD400?style=for-the-badge&logo=lego&logoColor=black" alt="LEGO Spike" />
+  <img src="https://img.shields.io/badge/LEGO_Spike_Prime-7A1022?style=for-the-badge&logo=lego&logoColor=white" alt="LEGO Spike" />
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -89,8 +90,8 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 
 ### 🗣️ Languages
 <p>
-  <img src="https://img.shields.io/badge/Arabic-Native_Language-1572B6?style=for-the-badge" alt="Arabic" />
-  <img src="https://img.shields.io/badge/English-Intermediate-4479A1?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/Arabic-Native_Language-1E3A8A?style=for-the-badge" alt="Arabic" />
+  <img src="https://img.shields.io/badge/English-Intermediate-7A1022?style=for-the-badge" alt="English" />
 </p>
 
 </div>
@@ -209,19 +210,18 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ## 📜 Certifications
 
 ### 💻 Technology & Engineering
-[![Build with AI 2026](https://img.shields.io/badge/Build_With_AI-GDG_Campus_ZUJ-7B2CBF?style=flat&logo=google&logoColor=white)](https://github.com/omaralkayyali)
-[![Full-Stack Web Engineering](https://img.shields.io/badge/Full--Stack_Web-Certified-9D4EDD?style=flat&logo=javascript&logoColor=white)](https://github.com/omaralkayyali)
+[![Build with AI 2026](https://img.shields.io/badge/Build_With_AI-GDG_Campus_ZUJ-1E3A8A?style=flat&logo=google&logoColor=white)](https://github.com/omaralkayyali)
+[![Full-Stack Web Engineering](https://img.shields.io/badge/Full--Stack_Web-Certified-7A1022?style=flat&logo=javascript&logoColor=white)](https://github.com/omaralkayyali)
 
 ### 🤖 Robotics & Automation
-[![Robotics Trainer Credential](https://img.shields.io/badge/Robotics_Trainer-Certified-C77DFF?style=flat&logo=arduino&logoColor=white)](https://github.com/omaralkayyali)
+[![Robotics Trainer Credential](https://img.shields.io/badge/Robotics_Trainer-Certified-1E3A8A?style=flat&logo=arduino&logoColor=white)](https://github.com/omaralkayyali)
 
 ### 🎨 Design & Media
-[![Digital Media Asset Management](https://img.shields.io/badge/Media_Design-Adobe_Certified-E0AAFF?style=flat&logo=adobephotoshop&logoColor=black)](https://github.com/omaralkayyali)
+[![Digital Media Asset Management](https://img.shields.io/badge/Media_Design-Adobe_Certified-7A1022?style=flat&logo=adobephotoshop&logoColor=white)](https://github.com/omaralkayyali)
 
 ### 🛡️ Leadership, First Aid & Studies
-[![Scout Leader Certification](https://img.shields.io/badge/Scout_Leadership-Certified-5A189A?style=flat&logo=target&logoColor=white)](https://github.com/omaralkayyali)
-[![First Aid Standard](https://img.shields.io/badge/First_Aid-Emergency_Response-red?style=flat&logo=squareenix&logoColor=white)](https://github.com/omaralkayyali)
-[![Islamic Studies Achievement](https://img.shields.io/badge/Islamic_Studies-Core_Foundations-036666?style=flat&logo=bookmeter&logoColor=white)](https://github.com/omaralkayyali)
+[![Scout Leader Certification](https://img.shields.io/badge/Scout_Leadership-Certified-1E3A8A?style=flat&logo=target&logoColor=white)](https://github.com/omaralkayyali)
+[![First Aid Standard](https://img.shields.io/badge/First_Aid-Emergency_Response-7A1022?style=flat&logo=squareenix&logoColor=white)](https://github.com/omaralkayyali)
 
 ---
 
@@ -229,10 +229,10 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7A1022?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-1E3A8A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7A1022?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
 
@@ -245,26 +245,18 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=omaralkayyali&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&location=Jordan" alt="Omar's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true&include_all_commits=true&location=Jordan" alt="Omar's GitHub Stats" height="180px" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&theme=tokyonight" alt="Omar's Streak Stats" height="180px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=1E3A8A" alt="Omar's Streak Stats" height="180px" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="160px" />
+<img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true" alt="Top Languages" height="160px" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omaralkayyali&theme=tokyonight&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -272,15 +264,7 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaralkayyali&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Contribution Activity Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg?user=omaralkayyali" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaralkayyali&bg_color=0d1117&color=ffffff&line=1E3A8A&point=7A1022&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 ---
