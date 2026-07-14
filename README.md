@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="omar-kayyali-calligraphy-hero.png" alt="Hero Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(122, 16, 34, 0.7), 0 0 20px rgba(30, 58, 138, 0.7);" />
-
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: 'Fira Code', monospace; font-size: 60px; font-weight: bold; text-shadow: 0 0 15px white, 0 0 30px #7A1022, 0 0 45px #1E3A8A;">OMAR</div>
+<img src="your-calligraphy-hero.png" alt="Hero Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(122, 16, 34, 0.7), 0 0 20px rgba(30, 58, 138, 0.7);" />
 
 <br />
 
@@ -10,25 +8,24 @@
 
 ### 🚀 Building scalable web platforms and intelligent automation systems
 
-[![Computer Science](https://img.shields.io/badge/CS_Student-Al--Zaytoonah_University-1E3A8A?style=for-the-badge&logo=education&logoColor=white)](https://github.com/omaralkayyali)
-[![AI Enthusiast](https://img.shields.io/badge/AI_Enthusiast-Agentic_Workflows-7A1022?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/omaralkayyali)
-[![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-React_%7C_Node_%7C_Firebase-1E3A8A?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/omaralkayyali)
-[![Jordan](https://img.shields.io/badge/Location-Amman%2C_Jordan-7A1022?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/omaralkayyali)
+[![Computer Science](https://img.shields.io/badge/CS_Student-University_Name-1E3A8A?style=for-the-badge&logo=education&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![AI Enthusiast](https://img.shields.io/badge/AI_Enthusiast-Agentic_Workflows-7A1022?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-React_%7C_Node_%7C_Firebase-1E3A8A?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Location](https://img.shields.io/badge/Location-City%2C_Country-7A1022?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alkayyali.web-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://github.com/omaralkayyali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Al--Kayyali-7A1022?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-al-kayyali-0a57a5338)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-1E3A8A?style=flat-square&logo=gmail&logoColor=white)](mailto:omaralkayyali.b@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/omaralkayyali?style=flat-square&logo=github&color=7A1022)](https://github.com/omaralkayyali)
-![Profile Views](https://komarev.com/ghvc/?username=omaralkayyali&color=1E3A8A&style=flat-square&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourwebsite.com-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_WEBSITE_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_NAME-7A1022?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-1E3A8A?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&color=7A1022)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghvc/?username=YOUR_USERNAME&color=1E3A8A&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-```http://googleusercontent.com/image_generation_content/350
 ---
 
 ## 🔮 About Me
 
-I am a forward-thinking **Computer Science student** at **Al-Zaytoonah University of Jordan** and a **Full-Stack Developer**. Driven by a product-building mindset and a passion for technology-driven business models, I bridge the gap between robust software engineering and high-impact digital experiences.
+I am a forward-thinking **Computer Science student** at **[University Name]** and a **Full-Stack Developer**. Driven by a product-building mindset and a passion for technology-driven business models, I bridge the gap between robust software engineering and high-impact digital experiences.
 
 * 🎓 **Computer Science Focus:** Architecting clean, modular, and optimized web applications using modern Javascript environments, production-ready databases, and robust APIs.
 * 💻 **Product Building & SaaS Mindset:** Passionate about transforming early-concept ideas into functioning digital projects, custom web platforms, and online business MVPs.
@@ -117,55 +114,37 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🛍️ Scout Corner Store — E-Commerce Platform</b></summary>
+<summary><b>🛍️ E-Commerce Platform Project</b></summary>
 <br />
 
-* **Description:** A dedicated, secure digital storefront built to streamline merchandise, badge sales, and inventory management for local scouting organizations.
+* **Description:** A dedicated, secure digital storefront built to streamline merchandise sales and inventory management.
 * **Stack:** React, Node.js, Firebase Authentication, Cloud Firestore, Vercel.
 * **Architecture:** Client-side Single Page Application (SPA) interacting with a highly secured Firebase NoSQL infrastructure.
 * **Performance:** Code-splitting routines and lazy-loaded image routes implemented for minimal load latencies over mobile networks.
-* **Security:** Strict granular Firestore Security Rules preventing cross-tenant access and validating incoming state changes.
-* **Impact:** Eliminated manual record sheets, reducing operational transaction overhead by 40% for localized scouting operations.
-* **Repository:** `https://github.com/omaralkayyali/scout-corner-store`
+* **Impact:** Eliminated manual record sheets, reducing operational transaction overhead substantially.
+* **Repository:** `https://github.com/YOUR_USERNAME/project-repo-link`
 </details>
 
 <details>
-<summary><b>🛠️ Rafiq Web Project — Universal Daily Utility Suite</b></summary>
+<summary><b>🛠️ Daily Utility Suite Web Project</b></summary>
 <br />
 
 * **Description:** An integrated digital workspace application intended as a comprehensive toolkit for routine workflow tracking and quick utility access.
 * **Stack:** Pure HTML5, Modern CSS3, Vanilla JavaScript, LocalStorage API.
 * **Architecture:** Ultra-lightweight, dependency-free architectural model enforcing optimal core web vitals and instantaneous caching mechanisms.
-* **Performance:** Boasts near-zero framework compilation overhead, achieving flawless lighthouse metrics across lower-tier mobile hardware configurations.
-* **Security:** Isolated client-side state handling preventing telemetry leaks or unexpected cross-site script tracking vectors.
-* **Impact:** Served as an efficient everyday hub application, minimizing reliance on memory-heavy system background programs.
-* **Repository:** `https://github.com/omaralkayyali/rafiq-utility-hub`
+* **Performance:** Boasts near-zero framework compilation overhead, achieving flawless lighthouse metrics.
+* **Repository:** `https://github.com/YOUR_USERNAME/project-repo-link`
 </details>
 
 <details>
-<summary><b>🏠 Double K Decorations Portal — Interior Design Showroom</b></summary>
+<summary><b>🏠 Interior Design Showroom Portal</b></summary>
 <br />
 
 * **Description:** High-converting, brand-focused corporate landing interface and client intake application for an upscale interior decoration service.
 * **Stack:** React, Tailwind CSS, EmailJS API integration, Node.js asset backend.
 * **Architecture:** Dynamic content grid component model matched with programmatic booking and form data structures.
-* **Performance:** Image compilation pipelines designed via next-generation formats, driving asset response latencies down substantially.
-* **Security:** Script sanitizer protocols attached to contact vectors to block injection risks and spam entries.
 * **Impact:** Elevated business discoverability, converting incoming organic visitor interactions into booked structural consultation requests.
-* **Repository:** `https://github.com/omaralkayyali/double-k-decorations`
-</details>
-
-<details>
-<summary><b>📚 Al-Kayyali Library System — Asset Management Solution</b></summary>
-<br />
-
-* **Description:** Relational database tracking tool designed to catalog literature items, loan statuses, and borrowing operations.
-* **Stack:** Google AppSheet, Google Workspace Engine, Custom Automation Rules.
-* **Architecture:** Model-View-Controller framework abstraction over cloud spreadsheets acting as an asynchronous relational transaction log.
-* **Performance:** Instantaneous internal state changes synced via background triggers to prevent data mismatching.
-* **Security:** Shared Identity Provider checks ensuring access permissions remain exclusive to designated administrative accounts.
-* **Impact:** Transitioned resource indexing from unmanaged physical files to an organized, searchable multi-user cloud ledger.
-* **Repository:** Private Infrastructure Deployment
+* **Repository:** `https://github.com/YOUR_USERNAME/project-repo-link`
 </details>
 
 ---
@@ -187,43 +166,18 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 * **Responsibilities:**
     * Instructed algorithmic problem-solving using C++ environments on Arduino and hardware microcontrollers.
     * Guided student engineering cohorts through physical path-finding algorithms and line-follower robotic configurations.
-    * Designed systematic troubleshooting workflows to isolate electrical and code issues efficiently.
 * **Skills:** `C++` `Arduino` `Embedded Logic` `Lego Spike Prime` `Hardware Design`
-
-### 📊 Digital Project & Social Media Manager | Freelance Brand Builder
-* **Date Range:** December 2025 — Present
-* **Description:** Supervising technical requirements, online delivery timelines, and media growth campaigns for distinct online ventures.
-* **Responsibilities:**
-    * Automating asset production pipelines using Adobe Photoshop scripting and batch tools.
-    * Structuring internal cross-team data synchronization structures using Notion API engines and automated scripts.
-    * Managing content distribution analytics matrices to optimize client acquisition channels.
-* **Skills:** `Photoshop` `Illustrator` `Automation` `Notion Workspace Design` `Project Mapping`
-
----
-
-## 🎖️ Leadership & Community Impact
-
-* **Scout Leadership (Marj Hamam Scout Group):** Actively serve as a Scout Leader managing operations, logistical task routing, and coordinating multi-member youth assemblies. Leverage platforms like the Leaders Platform (منصة القادة) to handle event clearance permissions efficiently.
-* **Hackathon Innovation (Build with AI 2026):** Accepted into and actively participated in the **Antigravity IDE Challenge** hosted at Al-Zaytoonah University of Jordan, prototyping smart tools alongside industry peers.
-* **Youth Skills Empowerment:** Spearheaded volunteer robotics and technical introduction bootcamps to mentor younger students in technical logical frameworks, algorithms, and code foundations.
 
 ---
 
 ## 📜 Certifications
 
 ### 💻 Technology & Engineering
-[![Build with AI 2026](https://img.shields.io/badge/Build_With_AI-GDG_Campus_ZUJ-1E3A8A?style=flat&logo=google&logoColor=white)](https://github.com/omaralkayyali)
-[![Full-Stack Web Engineering](https://img.shields.io/badge/Full--Stack_Web-Certified-7A1022?style=flat&logo=javascript&logoColor=white)](https://github.com/omaralkayyali)
+[![Build with AI 2026](https://img.shields.io/badge/Build_With_AI-GDG_Campus-1E3A8A?style=flat&logo=google&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Full-Stack Web Engineering](https://img.shields.io/badge/Full--Stack_Web-Certified-7A1022?style=flat&logo=javascript&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ### 🤖 Robotics & Automation
-[![Robotics Trainer Credential](https://img.shields.io/badge/Robotics_Trainer-Certified-1E3A8A?style=flat&logo=arduino&logoColor=white)](https://github.com/omaralkayyali)
-
-### 🎨 Design & Media
-[![Digital Media Asset Management](https://img.shields.io/badge/Media_Design-Adobe_Certified-7A1022?style=flat&logo=adobephotoshop&logoColor=white)](https://github.com/omaralkayyali)
-
-### 🛡️ Leadership, First Aid & Studies
-[![Scout Leader Certification](https://img.shields.io/badge/Scout_Leadership-Certified-1E3A8A?style=flat&logo=target&logoColor=white)](https://github.com/omaralkayyali)
-[![First Aid Standard](https://img.shields.io/badge/First_Aid-Emergency_Response-7A1022?style=flat&logo=squareenix&logoColor=white)](https://github.com/omaralkayyali)
+[![Robotics Trainer Credential](https://img.shields.io/badge/Robotics_Trainer-Certified-1E3A8A?style=flat&logo=arduino&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -233,8 +187,6 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7A1022?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-1E3A8A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7A1022?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
 
@@ -247,17 +199,17 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true&include_all_commits=true&location=Jordan" alt="Omar's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180px" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=1E3A8A" alt="Omar's Streak Stats" height="180px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=1E3A8A" alt="Streak Stats" height="180px" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true" alt="Top Languages" height="160px" />
+<img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true" alt="Top Languages" height="160px" />
 
 </div>
 
@@ -266,7 +218,7 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaralkayyali&bg_color=0d1117&color=ffffff&line=1E3A8A&point=7A1022&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=1E3A8A&point=7A1022&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 ---
@@ -275,7 +227,6 @@ I am a forward-thinking **Computer Science student** at **Al-Zaytoonah Universit
 
 ```yaml
 Learning: "Advanced Backend Systems Engineering, TypeScript & Next.js Ecosystems"
-Building: "Rafiq Tool Web Application Ecosystem & High-Scale Client Solutions"
+Building: "High-Scale Client Solutions & Web Application Ecosystems"
 Exploring: "Agentic AI Orchestration Layouts, Custom Apps Script Hooks & Enterprise SaaS"
-Community: "Instructing local youth cohorts in engineering frameworks & Scout leadership development"
 OpenTo: "Collaborating on innovative full-stack software products and high-impact technical startups"
