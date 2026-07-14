@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- قم باستبدال "مسار_الصورة_هنا" برابط الصورة بعد رفعها إلى المستودع -->
-<img src="مسار_الصورة_هنا" alt="Hero Banner" width="100%" style="border-radius: 15px;" />
+<img src="omar-kayyali-calligraphy-hero.png" alt="Hero Banner" width="100%" style="border-radius: 15px;" />
 
 <br />
 
