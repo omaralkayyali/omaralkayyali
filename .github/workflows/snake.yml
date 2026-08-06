@@ -19,7 +19,7 @@ jobs:
           github_user_name: omaralkayyali
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=1E3A8A,7A1022,0d1117
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -27,3 +27,5 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "Update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

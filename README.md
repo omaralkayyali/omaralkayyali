@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="omar-kayyali-calligraphy-hero.png" alt="Hero Banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(122, 16, 34, 0.7), 0 0 20px rgba(30, 58, 138, 0.7);" />
+<img src="omar-kayyali-calligraphy-hero.png" alt="Omar Alkayyali — Hero Banner" width="100%" />
 
 <br /><br />
 
-<img src="https://www.omaralkayyali.com/assets/omar-alkayyali-profile.webp" alt="Omar Alkayyali" width="180" height="180" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 25px rgba(236, 72, 153, 0.55), 0 0 45px rgba(122, 16, 34, 0.35); border: 3px solid rgba(236, 72, 153, 0.45);" />
+<a href="https://www.omaralkayyali.com/links">
+  <img src="https://www.omaralkayyali.com/assets/omar-alkayyali-profile.webp" alt="Omar Alkayyali" width="170" height="170" style="border-radius: 50%; object-fit: cover;" />
+</a>
 
 <br />
 
@@ -12,7 +14,7 @@
 
 **Omar Mohammad Zakaria Al-Kayyali**
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3500&pause=1200&color=7A1022&center=true&vCenter=true&width=600&lines=%D8%B7%D8%A7%D9%84%D8%A8+%D8%B9%D9%84%D9%85+%D8%AD%D8%A7%D8%B3%D9%88%D8%A8+%26+%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9%3BComputer+Science+Student+%26+Web+Developer%3BAI+%26+Automation+Enthusiast%3BDigital+Entrepreneur+%26+Scout+Leader" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3500&pause=1200&color=7A1022&center=true&vCenter=true&width=600&lines=%D8%B7%D8%A7%D9%84%D8%A8+%D8%B9%D9%84%D9%85+%D8%AD%D8%A7%D8%B3%D9%88%D8%A8+%26+%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9;Computer+Science+Student+%26+Web+Developer;AI+%26+Automation+Enthusiast;Digital+Entrepreneur+%26+Scout+Leader" alt="Typing Animation" />
 
 <br />
 
@@ -59,9 +61,9 @@
 <div align="center">
 
 [![⚡ مؤسسة محمد الكيالي للتجهيزات الكهربائية](https://img.shields.io/badge/⚡_مؤسسة_محمد_الكيالي_للتجهيزات_الكهربائية-1a1a2e?style=for-the-badge&labelColor=7A1022&color=1E3A8A&logoColor=FFD700)](https://www.omaralkayyali.com/links)
-<br /><br />
+
 [![☁️ متجر قطن](https://img.shields.io/badge/☁️_متجر_قطن-1a1a2e?style=for-the-badge&labelColor=1E3A8A&color=7A1022&logoColor=white)](https://www.omaralkayyali.com/links)
-<br /><br />
+
 [![⚜️ الركن الكشفي](https://img.shields.io/badge/⚜️_الركن_الكشفي-1a1a2e?style=for-the-badge&labelColor=7A1022&color=1E3A8A&logoColor=FFD700)](https://www.omaralkayyali.com/links)
 
 </div>
@@ -126,7 +128,11 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
