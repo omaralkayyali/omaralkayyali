@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="#arabic"><img src="https://img.shields.io/badge/🇯🇴_العربية-7A1022?style=for-the-badge&logoColor=white" alt="Arabic" /></a>
-  <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English-1E3A8A?style=for-the-badge&logoColor=white" alt="English" /></a>
-</div>
-
 <div align="center" id="arabic">
 
 # عمر محمد زكريا الكيالي
@@ -13,6 +8,12 @@
 <br />
 
 <img src="omar-kayyali-calligraphy-hero.png" alt="Omar Alkayyali — Hero Banner" width="100%" />
+
+<br />
+
+<h3>
+  <a href="#arabic">🇯🇴 العربية</a> &nbsp; | &nbsp; <a href="#english">🇬🇧 English</a>
+</h3>
 
 <br />
 
