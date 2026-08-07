@@ -1,155 +1,219 @@
 <div align="center">
+  <a href="#arabic"><img src="https://img.shields.io/badge/🇯🇴_العربية-7A1022?style=for-the-badge&logoColor=white" alt="Arabic" /></a>
+  <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English-1E3A8A?style=for-the-badge&logoColor=white" alt="English" /></a>
+</div>
+
+<div align="center" id="arabic">
 
 <img src="omar-kayyali-calligraphy-hero.png" alt="Omar Alkayyali — Hero Banner" width="100%" />
 
 <br /><br />
 
 <a href="https://www.omaralkayyali.com/links">
-  <img src="https://www.omaralkayyali.com/assets/omar-alkayyali-profile.webp" alt="Omar Alkayyali" width="170" height="170" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://www.omaralkayyali.com/assets/omar-alkayyali-profile.webp" alt="Omar Alkayyali" width="180" height="180" style="border-radius: 50%; border: 4px solid #7A1022; box-shadow: 0 4px 10px rgba(0,0,0,0.2); object-fit: cover;" />
 </a>
 
 <br />
 
 # عمر محمد زكريا الكيالي
+### Omar ALKayyali
 
-**Omar Mohammad Zakaria Al-Kayyali**
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3500&pause=1200&color=7A1022&center=true&vCenter=true&width=600&lines=%D8%B7%D8%A7%D9%84%D8%A8+%D8%B9%D9%84%D9%85+%D8%AD%D8%A7%D8%B3%D9%88%D8%A8+%26+%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9;Computer+Science+Student+%26+Web+Developer;AI+%26+Automation+Enthusiast;Digital+Entrepreneur+%26+Scout+Leader" alt="Typing Animation" />
-
-<br />
-
-[![Website](https://img.shields.io/badge/الموقع_الرسمي-omaralkayyali.com-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.omaralkayyali.com/links)
-[![Location](https://img.shields.io/badge/الموقع-الأردن_%7C_Jordan-7A1022?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.omaralkayyali.com/links)
-[![Email](https://img.shields.io/badge/البريد-Contact_Me-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralkayyali.m@gmail.com)
+**Computer Science Student • Software Engineer • AI & Automation Enthusiast • Cybersecurity Interested**
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Alkayyali-7A1022?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaralkayyali)
-[![GitHub](https://img.shields.io/badge/GitHub-omaralkayyali-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/omaralkayyali)
-[![Instagram](https://img.shields.io/badge/Instagram-@omaralkayyali-7A1022?style=flat-square&logo=instagram&logoColor=white)](https://www.omaralkayyali.com/links)
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-1E3A8A?style=flat-square&logo=behance&logoColor=white)](https://www.omaralkayyali.com/links)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-7A1022?style=flat-square&logo=facebook&logoColor=white)](https://www.omaralkayyali.com/links)
+[![Website](https://img.shields.io/badge/Portfolio-omaralkayyali.com-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.omaralkayyali.com/links)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7A1022?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaralkayyali)
+[![GitHub](https://img.shields.io/github/followers/omaralkayyali?label=Followers&style=for-the-badge&color=E8A07C&logo=github)](https://github.com/omaralkayyali)
 
-![Profile Views](https://komarev.com/ghvc/?username=omaralkayyali&color=1E3A8A&style=flat-square&label=PROFILE+VIEWS)
+</div>
 
+---
+
+<div align="center">
+  <h2>🚀 أعمل حالياً على | Currently Building</h2>
+</div>
+
+<div align="right" dir="rtl">
+  <b>أعمل حالياً على:</b>
+  <br />• منصة صفحة (Safha Platform)
+  <br />• نظام إدارة محتوى الفريق الإعلامي
+  <br />• أتمتة مهام الذكاء الاصطناعي
+  <br />• منتجات رقمية
 </div>
 
 <br />
 
-<img src="assets/section-about.svg" alt="نبذة عني" width="100%" />
+<div align="left" dir="ltr" id="english">
+  <b>Currently building:</b>
+  <br />• Safha Platform
+  <br />• Media Team CMS
+  <br />• AI Automation Workflows
+  <br />• Digital Products
+</div>
+
+---
+
+<div align="center">
+  <h2>👤 نبذة عني | About Me</h2>
+  <img src="assets/section-about.svg" alt="About Me Header" width="100%" />
+</div>
 
 <br />
 
 <div align="right" dir="rtl">
-
-**عمر الكيالي** — طالب علم حاسوب ومطور مواقع مهتم بالذكاء الاصطناعي، يعمل على بناء مشاريع رقمية وحلول مبتكرة مع اهتمام بريادة الأعمال والتصميم وتجربة المستخدم. يجمع بين الجانب التقني والعمل التطوعي والقيادة الكشفية.
-
+  <b>نبذة عني:</b>
+  <br />
+  طالب علم حاسوب وشغوف بتطوير البرمجيات. مهتم بمجالات الذكاء الاصطناعي والأتمتة، وأعمل على بناء منتجات رقمية تلبي احتياجات حقيقية. أمتلك خبرة في قيادة الفرق التقنية والعمل التطوعي والكشفي.
 </div>
+
+<br />
 
 <div align="left" dir="ltr">
-
-*Computer Science student and web developer with a passion for AI, automation, and digital entrepreneurship — building products that blend engineering, design, and real-world impact.*
-
+  <b>About Me:</b>
+  <br />
+  Computer Science student and software engineering enthusiast. Passionate about AI and automation, building digital products that solve real-world problems. Experienced in technical team leadership and scout volunteering.
 </div>
 
-<br />
-
-<img src="assets/section-links.svg" alt="الروابط الرسمية" width="100%" />
-
-<br />
+---
 
 <div align="center">
-
-[![⚡ مؤسسة محمد الكيالي للتجهيزات الكهربائية](https://img.shields.io/badge/⚡_مؤسسة_محمد_الكيالي_للتجهيزات_الكهربائية-1a1a2e?style=for-the-badge&labelColor=7A1022&color=1E3A8A&logoColor=FFD700)](https://www.omaralkayyali.com/links)
-
-[![☁️ متجر قطن](https://img.shields.io/badge/☁️_متجر_قطن-1a1a2e?style=for-the-badge&labelColor=1E3A8A&color=7A1022&logoColor=white)](https://www.omaralkayyali.com/links)
-
-[![⚜️ الركن الكشفي](https://img.shields.io/badge/⚜️_الركن_الكشفي-1a1a2e?style=for-the-badge&labelColor=7A1022&color=1E3A8A&logoColor=FFD700)](https://www.omaralkayyali.com/links)
-
+  <h2>💻 المشاريع | Featured Projects</h2>
 </div>
 
-<br />
-
-<img src="assets/section-stack.svg" alt="التقنيات" width="100%" />
-
-<br />
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,firebase,git,github,wordpress,figma,photoshop,arduino" alt="Tech Stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/AI_Tools-Claude_%7C_ChatGPT_%7C_Gemini-7A1022?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-<img src="https://img.shields.io/badge/Automation-n8n_%7C_Apps_Script-1E3A8A?style=for-the-badge&logo=google&logoColor=white" alt="Automation" />
-<img src="https://img.shields.io/badge/Languages-العربية_%7C_English-7A1022?style=for-the-badge" alt="Languages" />
-
+  <a href="https://github.com/omaralkayyali/safha-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=safha-platform&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+  </a>
+  <a href="https://github.com/omaralkayyali/media-team-cms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=media-team-cms&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+  </a>
+  <br />
+  <a href="https://github.com/omaralkayyali/sublimation-templates-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=sublimation-templates-library&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+  </a>
+  <a href="https://github.com/omaralkayyali/scout-corner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=scout-corner&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+  </a>
 </div>
 
-<br />
-
-<details>
-<summary><b>🚀 Featured Projects — المشاريع</b></summary>
-<br />
-
-| Project | Description |
-| :--- | :--- |
-| [**Google Workspace Automation**](https://github.com/omaralkayyali/Google-Workspace-Automation) | Business operations automation & Google Apps Script solutions |
-| [**University Work**](https://github.com/omaralkayyali/University-Work) | Coursework, labs, and academic CS projects |
-
-</details>
-
-<br />
-
-<img src="assets/section-stats.svg" alt="النشاط" width="100%" />
-
-<br />
+---
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" height="165" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=1E3A8A" alt="Streak Stats" height="165" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=1E3A8A&count_private=true" alt="Top Languages" height="150" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omaralkayyali&bg_color=0d1117&color=ffffff&line=1E3A8A&point=7A1022&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake.svg" />
-</picture>
-
+  <h2>⚙️ التقنيات | Tech Stack</h2>
+  <img src="assets/section-stack.svg" alt="Tech Stack Header" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://www.omaralkayyali.com/links&color=1E3A8A" alt="QR Code" />
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts" alt="Languages" />
+
+<h3>Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" alt="Frameworks" />
+
+<h3>Databases & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,vercel" alt="Databases and Cloud" />
+
+<h3>AI & Automation</h3>
+<img src="https://img.shields.io/badge/Automation-n8n-7A1022?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/AI-OpenAI_APIs-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+
+<h3>Design & Tools</h3>
+<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Design Tools" />
+<img src="https://img.shields.io/badge/Design-Canva-E8A07C?style=for-the-badge&logo=canva&logoColor=black" alt="Canva" />
+
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 النشاط | Activity</h2>
+  <img src="assets/section-stats.svg" alt="Activity Header" width="100%" />
+</div>
 
 <br />
 
-**امسح للوصول لجميع الروابط الرسمية**
+<div align="center">
 
-[omaralkayyali.com/links](https://www.omaralkayyali.com/links)
+  <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=E8A07C" alt="Streak Stats" width="49%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" alt="Top Languages" width="49%" />
+
+  <br /><br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/omaralkayyali/omaralkayyali/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🏆 الإنجازات والاهتمامات | Achievements & Interests</h2>
+</div>
+
+<br />
+
+<div align="right" dir="rtl">
+  <b>الإنجازات والاهتمامات:</b>
+  <br />• رحلة أكاديمية في <b>علم الحاسوب</b>
+  <br />• تدريب متخصص في مجال <b>الروبوتات</b>
+  <br />• <b>قيادة كشفية</b> ومبادرات تطوعية
+  <br />• <b>ريادة أعمال رقمية</b> وتطوير منتجات
+  <br />• مشاريع مبتكرة في <b>الذكاء الاصطناعي</b>
+</div>
+
+<br />
+
+<div align="left" dir="ltr">
+  <b>Achievements & Interests:</b>
+  <br />• Academic journey in <b>Computer Science</b>
+  <br />• Specialized training in <b>Robotics</b>
+  <br />• <b>Scout Leadership</b> & community volunteering
+  <br />• <b>Digital Entrepreneurship</b> & product development
+  <br />• Innovative <b>AI & Automation</b> projects
+</div>
+
+---
+
+<div align="center">
+  <h2>🔗 الروابط الرسمية | Links</h2>
+  <img src="assets/section-links.svg" alt="Links Header" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/omaralkayyali">
+    <img src="https://img.shields.io/badge/GitHub-7A1022?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/omaralkayyali">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.omaralkayyali.com/links">
+    <img src="https://img.shields.io/badge/Portfolio-E8A07C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="mailto:omaralkayyali.m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7A1022?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.omaralkayyali.com/links">
+    <img src="https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,7A1022,0d1117&height=100&section=footer&text=©%202026%20عمر%20الكيالي%20%7C%20Omar%20Alkayyali&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer" width="100%" />
-
+<div align="center">
+  <i>"Building useful software, one commit at a time."</i>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,7A1022,E8A07C&height=100&section=footer&text=©%202026%20Omar%20Alkayyali&fontSize=14&fontColor=ffffff&animation=twinkling" alt="Footer Wave" width="100%" />
 </div>
