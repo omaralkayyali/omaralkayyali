@@ -76,19 +76,36 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/omaralkayyali/safha-platform">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=safha-platform&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
-  </a>
-  <a href="https://github.com/omaralkayyali/media-team-cms">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=media-team-cms&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
-  </a>
-  <br />
-  <a href="https://github.com/omaralkayyali/sublimation-templates-library">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=sublimation-templates-library&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
-  </a>
-  <a href="https://github.com/omaralkayyali/scout-corner">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=scout-corner&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>📦 Safha Platform</h3>
+        <p>Library platform</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </td>
+      <td width="50%" align="center">
+        <h3>📦 Media Team CMS</h3>
+        <p>Content management system</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📦 Sublimation Templates</h3>
+        <p>Digital templates library</p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Design-Canva-E8A07C?style=for-the-badge&logo=canva&logoColor=black" />
+      </td>
+      <td width="50%" align="center">
+        <h3>📦 Scout Corner</h3>
+        <p>Scout leadership portal</p>
+        <img src="https://img.shields.io/badge/Web-Platform-1E3A8A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Community-Management-7A1022?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
