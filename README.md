@@ -163,12 +163,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=E8A07C" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&bg_color=1A1A28&title_color=EEEEF2&text_color=9999AA&icon_color=7A1022&border_color=1E3A8A" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&bg_color=1A1A28&title_color=EEEEF2&text_color=9999AA&border_color=1E3A8A" alt="Top Languages" width="49%" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" alt="Top Languages" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=omaralkayyali&background=1A1A28&border=1E3A8A&ring=7A1022&fire=7A1022&currStreakNum=EEEEF2&sideNums=EEEEF2&currStreakLabel=9999AA&sideLabels=9999AA&dates=9999AA" alt="Streak Stats" width="100%" />
 
   <br /><br />
 
