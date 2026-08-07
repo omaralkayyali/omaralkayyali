@@ -101,24 +101,37 @@
 <br />
 
 <div align="center">
-
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts" alt="Languages" />
-
-<h3>Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" alt="Frameworks" />
-
-<h3>Databases & Cloud</h3>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,vercel" alt="Databases and Cloud" />
-
-<h3>AI & Automation</h3>
-<img src="https://img.shields.io/badge/Automation-n8n-7A1022?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/AI-OpenAI_APIs-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-
-<h3>Design & Tools</h3>
-<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Design Tools" />
-<img src="https://img.shields.io/badge/Design-Canva-E8A07C?style=for-the-badge&logo=canva&logoColor=black" alt="Canva" />
-
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>Languages</h3>
+        <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts" alt="Languages" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Frameworks</h3>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" alt="Frameworks" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Databases & Cloud</h3>
+        <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,vercel" alt="Databases and Cloud" />
+      </td>
+      <td width="50%" align="center">
+        <h3>AI & Automation</h3>
+        <img src="https://img.shields.io/badge/n8n-7A1022?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/OpenAI_APIs-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>Design & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Design Tools" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Canva-E8A07C?style=for-the-badge&logo=canva&logoColor=black" alt="Canva" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
