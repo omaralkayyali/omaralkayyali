@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <!-- Base dark background -->
+    <rect id="bg" width="1200" height="800" fill="#0d1117" />
+    
+    <!-- Blur filters -->
+    <filter id="blur-heavy" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="150" />
+    </filter>
+    <filter id="blur-medium" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="100" />
+    </filter>
+    <filter id="blur-light" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60" />
+    </filter>
+    
+    <!-- Gradients for organic shapes -->
+    <radialGradient id="burgundy-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7A1022" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7A1022" stop-opacity="0" />
+    </radialGradient>
+    
+    <radialGradient id="blue-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1E3A8A" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="blue-glow-core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2a52be" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#2a52be" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="burgundy-glow-core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a61730" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#a61730" stop-opacity="0" />
+    </radialGradient>
+    
+    <!-- Subtle Vignette via darker edges -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="50%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.6" />
+    </radialGradient>
+  </defs>
+
+  <!-- Base Dark Background -->
+  <use href="#bg" />
+
+  <!-- Organic Blurred Glow Shapes -->
+  <g style="mix-blend-mode: screen;">
+    <!-- Upper Left Burgundy Glow -->
+    <ellipse cx="200" cy="150" rx="700" ry="450" fill="url(#burgundy-glow)" filter="url(#blur-heavy)" opacity="0.6" transform="rotate(-15, 200, 150)" />
+    <ellipse cx="250" cy="200" rx="350" ry="250" fill="url(#burgundy-glow-core)" filter="url(#blur-medium)" opacity="0.5" transform="rotate(-30, 250, 200)" />
+    
+    <!-- Lower Right Blue Glow -->
+    <ellipse cx="1000" cy="650" rx="750" ry="500" fill="url(#blue-glow)" filter="url(#blur-heavy)" opacity="0.65" transform="rotate(25, 1000, 650)" />
+    <ellipse cx="950" cy="600" rx="450" ry="300" fill="url(#blue-glow-core)" filter="url(#blur-light)" opacity="0.5" transform="rotate(10, 950, 600)" />
+  </g>
+  
+  <!-- Vignette Overlay -->
+  <rect width="1200" height="800" fill="url(#vignette)" />
+</svg>
