@@ -83,17 +83,17 @@
 
 <div align="center">
   <a href="https://github.com/omaralkayyali/safha-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=safha-platform&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=safha-platform&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
   </a>
   <a href="https://github.com/omaralkayyali/media-team-cms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=media-team-cms&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=media-team-cms&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
   </a>
   <br />
   <a href="https://github.com/omaralkayyali/sublimation-templates-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=sublimation-templates-library&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=sublimation-templates-library&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
   </a>
   <a href="https://github.com/omaralkayyali/scout-corner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omaralkayyali&repo=scout-corner&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omaralkayyali&repo=scout-corner&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" width="49%" />
   </a>
 </div>
 
@@ -138,12 +138,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omaralkayyali&show_icons=true&title_color=7A1022&icon_color=1E3A8A&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaralkayyali&fire=7A1022&ring=1E3A8A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A1022&sideLabels=1E3A8A&dates=ffffff&background=0d1117&border=E8A07C" alt="Streak Stats" width="49%" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&title_color=7A1022&text_color=ffffff&bg_color=0d1117&border_color=E8A07C" alt="Top Languages" width="49%" />
 
   <br /><br />
 
