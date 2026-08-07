@@ -240,5 +240,5 @@
 <div align="center">
   <i>"Building useful software, one commit at a time."</i>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,7A1022,E8A07C&height=100&section=footer&text=©%202026%20Omar%20Alkayyali&fontSize=14&fontColor=ffffff&animation=twinkling" alt="Footer Wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7A1022,1E3A8A&height=100&section=footer&text=©%202026%20Omar%20Alkayyali&fontSize=14&fontColor=ffffff&animation=twinkling" alt="Footer Wave" width="100%" />
 </div>
