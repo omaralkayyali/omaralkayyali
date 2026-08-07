@@ -10,7 +10,7 @@
 <br /><br />
 
 <a href="https://www.omaralkayyali.com/links">
-  <img src="https://www.omaralkayyali.com/assets/omar-alkayyali-profile.webp" alt="Omar Alkayyali" width="180" height="180" style="border-radius: 50%; border: 4px solid #7A1022; box-shadow: 0 4px 10px rgba(0,0,0,0.2); object-fit: cover;" />
+  <img src="https://github.com/omaralkayyali.png" alt="Omar Alkayyali" width="180" height="180" style="border-radius: 50%; border: 4px solid #7A1022; box-shadow: 0 4px 10px rgba(0,0,0,0.2); object-fit: cover;" />
 </a>
 
 <br />
