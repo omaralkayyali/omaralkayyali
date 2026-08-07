@@ -5,20 +5,20 @@
 
 <div align="center" id="arabic">
 
-<img src="omar-kayyali-calligraphy-hero.png" alt="Omar Alkayyali — Hero Banner" width="100%" />
+# عمر محمد زكريا الكيالي
+### Omar ALKayyali
 
-<br /><br />
+**Computer Science Student • Software Engineer • AI & Automation Enthusiast • Cybersecurity Interested**
+
+<br />
 
 <a href="https://www.omaralkayyali.com/links">
   <img src="https://github.com/omaralkayyali.png" alt="Omar Alkayyali" width="180" height="180" style="border-radius: 50%; border: 4px solid #7A1022; box-shadow: 0 4px 10px rgba(0,0,0,0.2); object-fit: cover;" />
 </a>
 
-<br />
+<br /><br />
 
-# عمر محمد زكريا الكيالي
-### Omar ALKayyali
-
-**Computer Science Student • Software Engineer • AI & Automation Enthusiast • Cybersecurity Interested**
+<img src="omar-kayyali-calligraphy-hero.png" alt="Omar Alkayyali — Hero Banner" width="100%" />
 
 <br />
 
