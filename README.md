@@ -163,8 +163,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omaralkayyali&show_icons=true&bg_color=1A1A28&title_color=EEEEF2&text_color=9999AA&icon_color=7A1022&border_color=1E3A8A" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&bg_color=1A1A28&title_color=EEEEF2&text_color=9999AA&border_color=1E3A8A" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omaralkayyali&show_icons=true&bg_color=1A1A28&title_color=EEEEF2&text_color=9999AA&icon_color=7A1022&border_color=1E3A8A" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omaralkayyali&layout=compact&bg_color=1A1A28&title_color=EEEEF2&text_color=9999AA&border_color=1E3A8A" alt="Top Languages" height="195" />
 
   <br /><br />
 
