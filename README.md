@@ -1,7 +1,7 @@
 <div align="center" id="arabic">
 
 # عمر محمد زكريا الكيالي
-### Omar ALKayyali
+### Omar Alkayyali
 
 **Computer Science Student • Software Engineer • AI & Automation Enthusiast • Cybersecurity Interested**
 
@@ -73,37 +73,34 @@
 ---
 
 <div align="center">
-  <h2>💻 المشاريع | Featured Projects</h2>
+  <h2>🧩 ماذا أبني | What I Build</h2>
+  <img src="assets/section-build.svg" alt="What I Build Header" width="100%" />
 </div>
+
+<br />
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <h3>📦 Safha Platform</h3>
-        <p>Library platform</p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <td width="20%" align="center">
+        <b>🌐 Web Platforms</b>
+        <br /><sub>Next.js, full-stack products</sub>
       </td>
-      <td width="50%" align="center">
-        <h3>📦 Media Team CMS</h3>
-        <p>Content management system</p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+      <td width="20%" align="center">
+        <b>🧱 Web Applications</b>
+        <br /><sub>CMS & internal tooling</sub>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📦 Sublimation Templates</h3>
-        <p>Digital templates library</p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Design-Canva-E8A07C?style=for-the-badge&logo=canva&logoColor=black" />
+      <td width="20%" align="center">
+        <b>🤖 AI & Automation</b>
+        <br /><sub>n8n workflows, OpenAI APIs</sub>
       </td>
-      <td width="50%" align="center">
-        <h3>📦 Scout Corner</h3>
-        <p>Scout leadership portal</p>
-        <img src="https://img.shields.io/badge/Web-Platform-1E3A8A?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Community-Management-7A1022?style=for-the-badge" />
+      <td width="20%" align="center">
+        <b>🎨 Digital Products</b>
+        <br /><sub>Templates & design systems</sub>
+      </td>
+      <td width="20%" align="center">
+        <b>🛠️ Custom Systems</b>
+        <br /><sub>Community & leadership platforms</sub>
       </td>
     </tr>
   </table>
@@ -126,14 +123,14 @@
         <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts" alt="Languages" />
       </td>
       <td width="50%" align="center">
-        <h3>Frameworks</h3>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" alt="Frameworks" />
+        <h3>Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Frontend" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>Databases & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,vercel" alt="Databases and Cloud" />
+        <h3>Backend & Cloud</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,vercel" alt="Backend and Cloud" />
       </td>
       <td width="50%" align="center">
         <h3>AI & Automation</h3>
@@ -155,8 +152,103 @@
 ---
 
 <div align="center">
-  <h2>📈 النشاط | Activity</h2>
-  <img src="assets/section-stats.svg" alt="Activity Header" width="100%" />
+  <h2>💻 المشاريع المميزة | Featured Projects</h2>
+  <img src="assets/section-projects.svg" alt="Featured Projects Header" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3>📦 Safha Platform</h3>
+        <p>Library platform</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        <br /><br />
+        <sub><b>Role:</b> Full-Stack Developer</sub>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>📦 Media Team CMS</h3>
+        <p>Content management system</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <br /><br />
+        <sub><b>Role:</b> Full-Stack Developer & Team Lead</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3>📦 Sublimation Templates</h3>
+        <p>Digital templates library</p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Design-Canva-E8A07C?style=for-the-badge&logo=canva&logoColor=black" />
+        <br /><br />
+        <sub><b>Role:</b> Product Designer & Developer</sub>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>📦 Scout Corner</h3>
+        <p>Scout leadership portal</p>
+        <img src="https://img.shields.io/badge/Web-Platform-1E3A8A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Community-Management-7A1022?style=for-the-badge" />
+        <br /><br />
+        <sub><b>Role:</b> Founder & Lead Developer</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!--
+  REUSABLE PROJECT CARD — duplicate this <td> block inside the table above
+  to add a new project. Fill in the bracketed placeholders, then delete
+  the Live Demo / Repository line if you don't have a public link yet.
+
+  <td width="50%" valign="top" align="center">
+    <h3>📦 [PROJECT NAME]</h3>
+    <p>[Short one-line description]</p>
+    <img src="https://img.shields.io/badge/[Tech1]-XXXXXX?style=for-the-badge&logo=[logo1]&logoColor=white" />
+    <img src="https://img.shields.io/badge/[Tech2]-XXXXXX?style=for-the-badge&logo=[logo2]&logoColor=white" />
+    <br /><br />
+    <sub><b>Role:</b> [Your Role]</sub>
+    <br />
+    <a href="https://your-project-url.com">Live Demo</a> · <a href="https://github.com/omaralkayyali/[repo-name]">Repository</a>
+  </td>
+-->
+
+---
+
+<div align="center">
+  <h2>🏆 الإنجازات والاهتمامات | Achievements & Interests</h2>
+</div>
+
+<br />
+
+<div align="right" dir="rtl">
+  <b>الإنجازات والاهتمامات:</b>
+  <br />• رحلة أكاديمية في <b>علم الحاسوب</b>
+  <br />• تدريب متخصص في مجال <b>الروبوتات</b>
+  <br />• <b>قيادة كشفية</b> ومبادرات تطوعية
+  <br />• <b>ريادة أعمال رقمية</b> وتطوير منتجات
+  <br />• مشاريع مبتكرة في <b>الذكاء الاصطناعي</b>
+</div>
+
+<br />
+
+<div align="left" dir="ltr">
+  <b>Achievements & Interests:</b>
+  <br />• Academic journey in <b>Computer Science</b>
+  <br />• Specialized training in <b>Robotics</b>
+  <br />• <b>Scout Leadership</b> & community volunteering
+  <br />• <b>Digital Entrepreneurship</b> & product development
+  <br />• Innovative <b>AI & Automation</b> projects
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 النشاط | GitHub Stats</h2>
+  <img src="assets/section-stats.svg" alt="GitHub Stats Header" width="100%" />
 </div>
 
 <br />
@@ -191,35 +283,7 @@
 ---
 
 <div align="center">
-  <h2>🏆 الإنجازات والاهتمامات | Achievements & Interests</h2>
-</div>
-
-<br />
-
-<div align="right" dir="rtl">
-  <b>الإنجازات والاهتمامات:</b>
-  <br />• رحلة أكاديمية في <b>علم الحاسوب</b>
-  <br />• تدريب متخصص في مجال <b>الروبوتات</b>
-  <br />• <b>قيادة كشفية</b> ومبادرات تطوعية
-  <br />• <b>ريادة أعمال رقمية</b> وتطوير منتجات
-  <br />• مشاريع مبتكرة في <b>الذكاء الاصطناعي</b>
-</div>
-
-<br />
-
-<div align="left" dir="ltr">
-  <b>Achievements & Interests:</b>
-  <br />• Academic journey in <b>Computer Science</b>
-  <br />• Specialized training in <b>Robotics</b>
-  <br />• <b>Scout Leadership</b> & community volunteering
-  <br />• <b>Digital Entrepreneurship</b> & product development
-  <br />• Innovative <b>AI & Automation</b> projects
-</div>
-
----
-
-<div align="center">
-  <h2>🔗 الروابط الرسمية | Links</h2>
+  <h2>🔗 الروابط الرسمية | Let's Connect</h2>
   <img src="assets/section-links.svg" alt="Links Header" width="100%" />
 </div>
 
