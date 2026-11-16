@@ -2,8 +2,10 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # every day
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   generate:
@@ -13,13 +15,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate contribution snake (brand colors)
         uses: Platane/snk@v3
         with:
           github_user_name: omaralkayyali
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#7B1FA2&color_dots=#ebedf0,#c7c9f0,#8a7fd6,#7B1FA2,#D32F2F
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#D32F2F&color_dots=#161b22,#1E3A8A,#4C2A8F,#7B1FA2,#D32F2F
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
