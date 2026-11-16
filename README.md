@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omaralkayyali&label=Profile%20views&color=7b1fa2&style=flat-square" alt="Profile views" />
   <a href="https://github.com/omaralkayyali?tab=followers"><img src="https://img.shields.io/github/followers/omaralkayyali?label=Followers&style=flat-square&color=1E3A8A&labelColor=0F0F13&logo=github" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Jordan%20🇯🇴-A1A1AA?style=flat-square&labelColor=0F0F13" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-Jordan-A1A1AA?style=flat-square&labelColor=0F0F13" alt="Location" />
 </p>
 
 <!-- ═══════════════════════════ CURRENTLY BUILDING ═══════════════════════════ -->
